@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Helpers\SimpleSerializer.cs" />
     <Compile Include="Models\ExpManagerModel.cs" />
+    <Compile Include="Models\MoneyLoverModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
